@@ -1,0 +1,32 @@
+.thermometer {
+    width: 20px;
+    height: 390px;
+    border: 2px solid black;
+    border-radius: 10px;
+    display: inline-block
+}
+.fluid {
+    width: 20px;
+    height: 20%;
+    background-color: red;
+    border-radius: 8px;
+}
+.counter-fluid {
+    height: 80%;
+    width: 20px;
+}
+.temp {
+ display: inline-block
+}
+.flexbox {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:  center;
+}
+p {
+    margin-top: 0px;
+    margin-bottom: 1.25em;
+}
+.values {
+    margin-right: 1em;
+}
